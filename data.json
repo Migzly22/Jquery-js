@@ -1,0 +1,23 @@
+{    
+    "$(document)" : "document",
+    "$":"document.querySelector",
+    ".click(":".addEventListener('click',",
+    ".submit(":".addEventListener('submit',",
+    ".change(":".addEventListener('change',",
+    ".hide()": ".style.display = 'none'",
+    ".show()": ".style.display = 'block'",
+    " document.querySelector(this" :"this",
+    "this)":"this",
+    ".text()" : ".innerHTML",
+    ".html()" : "",
+    ".val()":".value",
+    ".empty()" : ".innerHTML = ''",
+    ".addClass(" : ".classList.add(",
+    ".removeClass(" : ".classList.remove(",
+    ".css": ".style =",
+    ".text(" : ".innerHTML = (",
+    ".html(" : " = (",
+    ".val(":".value = (",
+    ".ready(" : ".addEventListener('DOMContentLoaded',"
+
+}
